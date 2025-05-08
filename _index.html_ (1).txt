@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Multivitamin Products</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+padding: 20px;
+}
+h1, h2 {
+color: #2c3e50;
+}
+.product {
+background-color: #ffffff;
+border: 1px solid #ccc;
+border-radius: 10px;
+padding: 15px;
+margin-bottom: 20px;
+box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+.product h3 {
+color: #2980b9;
+}
+ul {
+margin-top: 5px;
+}
+</style>
+</head>
+<body>
+
+<h1>Multivitamin + Mineral Products</h1>
+
+<h2>👧 Kids Multivitamins</h2>
+
+<div class="product">
+<h3>1. HealthyKids Multivitamin Gummies</h3>
+<p>Chewable gummies with essential nutrients for growing kids.</p>
+<ul>
+<li>Vitamin A, C, D, E</li>
+<li>B6, B12, Folate</li>
+<li>Iron, Zinc, Iodine</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>2. LittleLife Immune Boost Drops</h3>
+<p>Liquid multivitamin drops for toddlers and young children.</p>
+<ul>
+<li>Vitamin D3, A, B-complex</li>
+<li>Natural orange flavor</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>3. SmartyPants Kids Complete</h3>
+<p>Gummies with omega-3, fiber, and 15 essential nutrients.</p>
+<ul>
+<li>Vitamin D3, B12, E, Zinc</li>
+<li>Omega-3 from fish oil</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>4. Rainbow Light Kids One™</h3>
+<p>Food-based multivitamin for active kids.</p>
+<ul>
+<li>Calcium, Magnesium, Vitamin A–K</li>
+<li>Supports growth and energy</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>5. L'il Critters Gummy Vites</h3>
+<p>Fun gummy vitamins with fruity flavors kids love.</p>
+<ul>
+<li>Vitamin A, C, D, E, Zinc</li>
+<li>Gelatin-free option available</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>6. Nature’s Way Kids Smart Vita Gummies</h3>
+<p>Extra vitamin D and omega-3 for brain and immune health.</p>
+<ul>
+<li>DHA, D3, Vitamin C</li>
+<li>Supports concentration and immunity</li>
+</ul>
+</div>
+
+<h2>🧑 Adults Multivitamins</h2>
+
+<div class="product">
+<h3>1. Daily Essentials – Men & Women</h3>
+<p>Full-spectrum daily multivitamin for overall health.</p>
+<ul>
+<li>Vitamin A, C, D3, E, K2</li>
+<li>B-complex, Zinc, Magnesium</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>2. Centrum Adults Multivitamin</h3>
+<p>Popular daily tablet with 23 key nutrients.</p>
+<ul>
+<li>Vitamin D, B12, Iron, Calcium</li>
+<li>Energy, immunity, and metabolism support</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>3. One A Day Men's & Women's</h3>
+<p>Gender-specific vitamins for daily use.</p>
+<ul>
+<li>Heart, bone, and immune support</li>
+<li>With Vitamin A–E, Zinc, Selenium</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>4. Garden of Life MyKind Organics</h3>
+<p>Certified organic multivitamin made from real food.</p>
+<ul>
+<li>Non-GMO, Vegan, Whole Food-Based</li>
+<li>High in B-complex and antioxidants</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>5. Nature Made Multi for Him/Her</h3>
+<p>Simple, no-nonsense multivitamin for general wellness.</p>
+<ul>
+<li>25+ essential vitamins and minerals</li>
+<li>No artificial colors or preservatives</li>
+</ul>
+</div>
+
+<div class="product">
+<h3>6. MegaFood Women’s or Men’s One Daily</h3>
+<p>Gentle on the stomach with whole-food nutrients.</p>
+<ul>
+<li>Iron, D3, K2, Zinc</li>
+<li>Supports stress, energy, and heart health</li>
+</ul>
+</div>
+
+</body>
+</html>
